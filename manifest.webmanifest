@@ -7,5 +7,5 @@
   "background_color":"#f5f5f7",
   "theme_color":"#f5f5f7",
   "description":"Currículum web y aplicación móvil de Alejandro Hernández Castillo.",
-  "icons":[]
+  "icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
 }
